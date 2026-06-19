@@ -1,9 +1,10 @@
-```md
 # Hi, I'm Souptik Hazra 👋
 
-🎓 **MCA Student @ VIT Vellore (2027)**
+🎓 MCA Student @ VIT Vellore (2027)  
+📊 Data Analyst | Data Scientist | Machine Learning Engineer  
+📍 Kolkata, India
 
-I am passionate about transforming data into actionable insights and building intelligent systems using Machine Learning. My interests span **Data Analytics, Data Science, Machine Learning, and Data Engineering**, with a focus on solving real-world problems through data-driven solutions.
+I am passionate about transforming data into actionable insights and building intelligent systems using Machine Learning. My interests span Data Analytics, Data Science, Machine Learning, and Data Engineering, with a focus on solving real-world problems through data-driven solutions.
 
 ---
 
@@ -58,44 +59,43 @@ I am passionate about transforming data into actionable insights and building in
 ## 📌 Featured Projects
 
 ### 💊 Pharmaceutical Supply Chain Shortage Prediction
-Forecasting drug demand and predicting shortages using **SARIMA, LSTM, and XGBoost** models.
+Forecasting drug demand and predicting shortages using SARIMA, LSTM, and XGBoost.
 
 ### 🎟️ Dynamic Ticket Pricing System
-Machine Learning-powered pricing system that dynamically adjusts ticket prices based on demand and market conditions.
+Machine Learning-powered pricing system that dynamically adjusts ticket prices based on demand patterns.
 
 ### 🌍 Urban Air Pollution Dynamics
 Data-driven analysis and prediction of air quality trends using environmental datasets.
 
 ### 💹 Finance Analyzer
-Analytical dashboard and forecasting system designed for financial data insights and decision-making.
-
----
-
-## 📊 Current Focus
-
-- Snowflake Data Engineering
-- Machine Learning Model Development
-- Data Analytics & Visualization
-- End-to-End Data Projects
+Analytical dashboard and forecasting system for financial insights and decision-making.
 
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced Data Engineering
+- Snowflake
 - Cloud Data Platforms
 - MLOps Fundamentals
 - Deep Learning Optimization
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Stats
 
-- 🔗 LinkedIn: [Your LinkedIn URL]
-- 🌐 Portfolio: [Your Portfolio URL]
-- 📧 Email: [Your Email]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souptik-Hazra&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souptik-Hazra&layout=compact)
 
 ---
 
-> *"Turning data into insights and insights into intelligent solutions."*
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/souptik-hazra/)]
+- 🌐 Portfolio: [Add Your Portfolio URL]
+
+---
+
+> Turning data into insights and insights into intelligent solutions.
 ```
