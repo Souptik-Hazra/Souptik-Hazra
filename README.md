@@ -62,7 +62,7 @@ I'm focused on **Agentic AI, Generative AI, LLMs, Machine Learning, Deep Learnin
 
 ## 🌱 Currently Learning
 
-**Agentic AI • LangGraph • LangChain • LlamaIndex • Advanced RAG • LLM Applications • AI Agents**
+**AI Agents**
 
 ---
 
