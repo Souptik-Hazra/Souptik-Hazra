@@ -1,103 +1,85 @@
 # Hi there 👋, I'm Souptik Hazra
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=false&vCenter=true&width=700&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Data+Engineering+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=false&vCenter=true&width=750&lines=Agentic+AI+Enthusiast;Backend+Devlopment;Data+Analyst)](https://git.io/typing-svg)
 
 🎓 **MCA Student @ VIT Vellore (2027)**  
 📍 Kolkata, India
 
-Passionate about building data-driven solutions that solve real-world problems. I enjoy working across **Data Analytics, Machine Learning, Data Science, and Data Engineering**, transforming raw data into actionable insights and intelligent applications.
+I'm focused on **Agentic AI, Generative AI, LLMs, Machine Learning, Deep Learning, and Data Analytics**, building intelligent applications and AI-powered systems.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+### 🤖 Agentic AI & Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
+
+**AI Agents • Agentic Workflows • LLM Applications • RAG • Tool Calling • Embeddings • Vector Search**
+
+### 🧠 Machine Learning & Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Machine Learning • Deep Learning • NLP • Transformers • LLMs**
+
+### 📊 Data Analytics
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 📊 Data Analytics & Business Intelligence
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🤖 Data Science & Machine Learning
+**Data Analysis • Data Visualization • Business Intelligence • Statistical Analysis**
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### ⚙️ Backend & Frontend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Data Engineering
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-4CAF50?style=for-the-badge)
-
-### 🛠️ Tools
+### 🛠 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Highlights |
-|---------|------------|
-| 🏡 **Airbnb Market Intelligence: Price Prediction & Business Intelligence Dashboard** | Built an end-to-end analytics platform using **Python, PostgreSQL, Power BI, and Machine Learning** to analyze **280K+ Airbnb listings** across **10 cities**. Developed ETL pipelines, engineered predictive features, created executive Power BI dashboards, and trained a **Random Forest Regressor** for price prediction. |
-| 🌐 **Link Prediction in Temporal Graph using Heuristic & Machine Learning** | Developed a temporal graph link prediction system using **Python, NetworkX, Scikit-learn, and Logistic Regression**. Engineered graph-based features, implemented heuristic and supervised ML approaches, and compared their predictive performance on dynamic networks. |
-| 💊 **Pharmaceutical Supply Chain Shortage Prediction** | Forecasted drug demand and predicted shortages using a hybrid **SARIMA, LSTM, and XGBoost** pipeline with feature engineering and time-series forecasting. |
-| 🎟 **Dynamic Ticket Pricing System** | Developed an intelligent pricing system using Machine Learning to optimize ticket prices based on demand forecasting and customer behavior. |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Souptik-Hazra&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Souptik-Hazra&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souptik-Hazra&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Data Engineering
-- Snowflake
-- Apache Spark
+**Agentic AI • LangGraph • LangChain • LlamaIndex • Advanced RAG • LLM Applications • AI Agents**
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/souptik-hazra/" target="_blank">
+<a href="https://www.linkedin.com/in/souptik-hazra/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://souptikhazra.vercel.app/" target="_blank">
+<a href="https://souptikhazra.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:souptikhazra2003@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=Souptik-Hazra&style=flat-square&color=blue)
 
 ---
+
+![](https://komarev.com/ghpvc/?username=Souptik-Hazra&style=flat-square)
